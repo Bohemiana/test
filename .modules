@@ -1,3 +1,0 @@
-[submodule "test"]
-  path = test
-  url = ssh://-oProxyCommand=ls //git@github.com:/timwr/test.git
